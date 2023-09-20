@@ -1,0 +1,283 @@
+.header{
+    width: 100%;
+    height: 85px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    background-color: #fff;
+}
+body{
+    margin:0;
+    
+}
+.lefthead{
+   width:65%;
+   height: 100%;
+   float: left;
+   padding-top: 27px;
+}
+.logoimg{
+    width: 50px;
+    float: left;
+    margin-left: 30px;
+}
+
+.logo{
+    width: 14%;
+    height: 23px;
+    float: left;
+    font-size: 22px;
+    margin-top: 9px;
+}
+.site{
+    width: 42%;
+    height: 50px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 8px;
+}
+.site-name{
+    width: 60px;
+    height: 50px;
+    float: left;
+    border-bottom: 5px;
+}
+.site div:hover{
+    border-bottom: 2px solid green;
+    
+}
+.name-dec{
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+
+
+}
+.books{
+    width: 59px;
+    height: 50px;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+.righthead{
+    width:35%;
+    height: 100%;
+    float: left;
+    
+}
+.profile{
+    width: 57px;
+    height: 60px;
+    float: right;
+    margin-top: 25px;
+    
+
+}
+.profile1{
+    width: 30px;
+    margin: 25%;
+    border-radius: 50%;
+    
+   
+}
+.profile:hover{
+    border:non;
+    background: rgb(224, 223, 223);
+    border-radius: 50%;
+    
+}
+.mainbody{
+    width: 100%;
+    height: 950px;
+}
+.sistems{
+    width: 764px;
+    height: 86px;
+    margin-top: 120px;
+    position: sticky;
+    left: 0;
+}
+.sistems1{
+    width: 105px;
+    height: 58px;
+    float: right;
+   
+}
+.button{
+    font-size: 15px;
+    border-radius: 19px;
+    border: solid;
+    margin-right: 21px;
+    border-width: 1px;
+}
+
+
+.button:hover{
+    background: rgb(226, 212, 212);
+}
+.sistems2{
+    float: right;
+    margin-right: 2px;
+}
+.bottom-body{
+    width: 155%;
+    height: 350px;
+    padding-top: 9px;
+    padding-left: 35px;
+    margin-top: -36px;
+}
+.body1{
+    width: 430px;
+    height: 310px;
+    border-radius: 10px;
+    margin-left: 10px;
+    float: left;
+    background-size: 430px;
+    background-image: url(New\ folder/GettyImages-1563231746-1-.jpg);
+}
+.body2{
+ background-image: url(New\ folder/unnamed.png);
+}
+.body3{
+
+background-image: url(New\ folder/android-widgets-100887252-large.webp);
+
+
+}
+.tips{
+    background-color: #fff;
+    border: none;
+    margin-top: 0;
+    border-radius: 2px;
+    font-size: 20px;
+}
+.body4{
+background-image: url(New\ folder/1_NWo7kqBwfy7ptT1mnrhJsQ.jpg);
+}
+
+.fist-para{
+    width: 100%;
+    height: 75px;
+    margin-top: 153px;
+    padding-left: 29px;
+}
+.first-para1{
+   padding-top: 47px;
+}
+
+
+.para{
+    width: 100%;
+    height: 50px;
+}
+.right-para{
+    width: 39%;
+    height: 50px;
+    float: left;
+    margin-left: 44px;
+}
+.botton{
+    width: 111px;
+    height: 34px;
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 9px;
+    border: none;
+    margin-left: 31px;
+}
+.botton1{
+    margin-left: 31px;
+}
+.botton-duo{
+    width: 143px;
+    height: 39px;
+    font-size: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    margin-left: 15px;
+}
+.botton-duo1{
+    margin-left: 54px;
+    font-size: 10px;
+}
+.duo{
+    padding-top: 20px;
+}
+.left-para{
+    width: 50%;
+    height: 50px;
+    float: left; 
+}
+.bookmy{
+    width: 30px;
+    height: 30px;
+    margin-left: 26px;
+    margin-top: 9px;
+    border-radius: 10px;
+}
+
+.app{
+    width: 100%;
+    height: 500px;
+    overflow-x: hidden;
+}
+.top{
+    font-size: 20px;
+    padding-left: 53px;
+}
+.app-butten{
+    width: 120px;
+    border-radius: 15px;
+    border: solid;
+    border-width: 1px;
+    height: 28px;
+    margin-left: 27px;
+}
+
+
+.appbody{
+    width: 415px;
+    height: 96px;
+    margin-top: 15px;
+}
+.appbody1{
+    float: left;
+}
+.app-left{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.car{
+    width: 73px;
+    height: 64px;
+    border-radius: 15px;
+    margin-top: 14px;
+    float: right;
+    padding-right: 5px;
+}
+
+.app-right{
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+.app-para{
+    margin-top: 14px;
+}
+.appbody-second{
+    float: left;
+    margin: 0;
+    margin-top: -288px;
+}
+.riyal{
+   font-size: 22px;
+   text-align: left;
+}
+.racing{
+  font-size: 14px;
+   text-align: left;
+}
